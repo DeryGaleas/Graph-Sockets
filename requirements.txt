@@ -1,0 +1,5 @@
+django
+channels
+websocket
+websocket-client
+redis 
